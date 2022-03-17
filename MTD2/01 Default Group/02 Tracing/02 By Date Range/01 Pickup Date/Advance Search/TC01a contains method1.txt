@@ -1,0 +1,7 @@
+For all tests “Search Probills by Pickup Date” was set back to a week span to ensure the table is populated (2022-02-24 to 2022-03-03). 
+
+TC01a: Contains method test1.
+	- From Landing page navigate to https://staging1.mtdirect.ca/MANITOULIN/pages/MTDPUDATE 
+	- Leave search field as Probill#, Condition as Contains and use the test value of 75.
+	- 2 records returned with a value containing the number 75.
+	TC01a Passed.

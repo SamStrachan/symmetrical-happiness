@@ -1,0 +1,5 @@
+TC06a: is method test1. 
+	- From Landing page navigate to https://staging1.mtdirect.ca/MANITOULIN/pages/MTDPUDATE 
+	- Update search field to Shipper City, Condition as Is and use the test value of BARRIE.
+	- 1 record was returned with the correct result.
+TC06a Passed.  
