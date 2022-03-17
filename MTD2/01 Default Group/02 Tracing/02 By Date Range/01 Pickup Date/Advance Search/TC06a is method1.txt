@@ -3,3 +3,4 @@ TC06a: is method test1.
 	- Update search field to Shipper City, Condition as Is and use the test value of BARRIE.
 	- 1 record was returned with the correct result.
 TC06a Passed.  
+ 
