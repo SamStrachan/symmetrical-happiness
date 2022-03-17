@@ -2,6 +2,6 @@ For all tests “Search Probills by Pickup Date” was set back to a week span t
 
 TC02a: Contains method test2.
 	- From Landing page navigate to https://staging1.mtdirect.ca/MANITOULIN/pages/MTDPUDATE 
-	- Leave search field as Probill#, Condition as Contains and use the test value of 3301624575.
+	- Leave search field as Probill#, Condition as Contains and use the test value of 33########.
 	- 1 record is returned as would be expected.
 	TC02a Passed.

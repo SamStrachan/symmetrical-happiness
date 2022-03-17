@@ -1,0 +1,8 @@
+TC02: Same account, additional probills
+	Repeat the same test using the probill ######  
+	Preview of bill of lading loads in roughly 2 seconds 
+	Download complete in roughly 2 seconds with a file size of 65.5 kb
+	Return to the previous page and select EPOD 
+	Preview loads in roughly 2 seconds 
+	Download complete in roughly 2 seconds with a file size of 9.91 kb
+Test Passed

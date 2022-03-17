@@ -1,0 +1,12 @@
+TC01: Load with my own account.
+	From landing page (https://mtd2-fieldtest.mtdirect.ca/MANITOULIN/pages/ANO-SHOW) 
+	Open Tracing tab, click on Probill
+	Use supplied test probill of ######
+	Load time to view page is expected 
+	Click images and select bill of lading 
+	Preview loads in roughly 2 seconds 
+	Download complete in roughly 2 seconds with a file size of 161 kb
+	Return to the previous page and select EPOD 
+	Preview loads in roughly 2 seconds 
+	Download complete in roughly 2 seconds with a file size of 9.53 kb
+TC01 Passed.
