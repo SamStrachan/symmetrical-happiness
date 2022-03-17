@@ -1,0 +1,7 @@
+For all tests in “Search Probills by Delivery Date” was set as starting date “2021-11-11” and ending date “2022-02-15” to ensure the table is populated. 
+
+TC04b: Contains method test2.
+	- From Landing page navigate to https://staging1.mtdirect.ca/MANITOULIN/pages/MTDDELDATE 
+	- Set the search field to “Probill#”, condition to “Contains”, and a test value of “00”.
+	- 5 records returned, 12 were expected. No records starting with “00” were returned.
+	TC04b Failed.

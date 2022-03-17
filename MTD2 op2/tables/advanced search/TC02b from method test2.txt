@@ -1,0 +1,7 @@
+For all tests in “Search Probills by Delivery Date” was set as starting date “2021-11-11” and ending date “2022-02-15” to ensure the table is populated. 
+
+TC02b: From method test2.
+	- From Landing page navigate to https://staging1.mtdirect.ca/MANITOULIN/pages/MTDDELDATE 
+	- Set the search field to “Pickup Date”, condition to “From”, data range to “Custom”,  start date to “2021-11-11” and end date to “2021-11-15”.
+	- 8 records returned, which was expected.
+	TC02b Passed.

@@ -1,0 +1,7 @@
+For all tests “Search Probills by Pickup Date” was set back to a week span to ensure the table is populated (2022-02-24 to 2022-03-03). 
+
+TC03a: Contains method test3.
+	- From Landing page navigate to https://staging1.mtdirect.ca/MANITOULIN/pages/MTDPUDATE 
+	- Leave search field as Probill#, Condition as Contains and use the test value of 00.
+	- 10 records were returned, though it should be noted that Probills that begin with “00” were not returned, even if those do exist in the table (0032470514 for example). 
+	TC03a Failed.
